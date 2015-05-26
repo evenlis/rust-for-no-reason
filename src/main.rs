@@ -1,6 +1,5 @@
 /// I'm now the king of documentation
-/// # Entry point
-
+use
 fn main() {
     println!("Hello world");
 }
